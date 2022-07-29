@@ -1,0 +1,6 @@
+step\definition\HomePageSteps.class
+step\definition\Initializer.class
+step\definition\RetailPageSteps.class
+step\definition\LaptopAndNoteBooksSteps.class
+runner\TestRunner.class
+step\definition\DesktopsTabSteps.class
